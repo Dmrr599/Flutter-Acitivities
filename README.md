@@ -33,3 +33,7 @@ Docente: M.T. I Marco Antonio Ramírez Hernández
 Periodo: Septiembre – Diciembre 2022
 ## Elaborado por:
 ### Diana Marina Roldán Ríos Matrícula 190583
+
+# #
+<img src="https://user-images.githubusercontent.com/77304407/194476270-7d5ae341-0c51-4832-b1d5-0eeb1e1e7730.jpg" height="200" width="300"></img>
+<img src="https://user-images.githubusercontent.com/77304407/194476462-17681aac-2dae-458e-ade3-f9195d8ce615.png" height="200" width="500"></img>
